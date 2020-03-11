@@ -1,5 +1,6 @@
 Git is a distributed version control system.
 Git is free software.
+创建分支：git branch <name>
 查看分支：git branch
 新加内容：
 查看远程库信息，使用git remote -v；
